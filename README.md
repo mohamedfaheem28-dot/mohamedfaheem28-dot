@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Mohamed Faheem 👋
 
-<!--
-**mohamedfaheem28-dot/mohamedfaheem28-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Machine Learning Student
 
-Here are some ideas to get you started:
+🌱 Currently learning programming, web development and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+
+- Artificial Intelligence & Machine Learning
+- Python Programming
+- Web Development
+- Software Development
+
+🚀 I believe in learning by building projects and improving my skills every day.
+
+🛠️ Technologies & Tools
+
+- Python
+- HTML
+- Git & GitHub
+
+📚 Currently Learning
+
+- Programming Fundamentals
+- Web Application Development
+- Artificial Intelligence and Machine Learning
+
+🎯 My Goal
+
+To become a skilled Software Engineer and develop useful, innovative applications.
+
+📫 Connect With Me
+
+- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/mohamed-faheem-139836446/)
+- GitHub: "My GitHub Profile" (https://github.com/mohamedfaheem28-dot)
